@@ -279,6 +279,15 @@ footer {
     float: left;
     padding: 0;
 }
+
+#times > div {
+
+    width: 100%;
+    clear: both;
+    height: 100px;
+    padding: 0;
+}
+
 hr {
     display: none;
 }
@@ -318,4 +327,4 @@ hr {
         padding: 20px;
     
 }
-
+}
